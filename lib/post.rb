@@ -3,7 +3,7 @@ class Post
 
   def inititlize
     @title = title
-    
+
   end
-  
+
 end
